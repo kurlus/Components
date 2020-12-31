@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\cress\IdeaProjects\Components\.idea/dataSources/
+/../../../../../../:\Users\cress\IdeaProjects\Components\.idea/codeStyles/
+/../../../../../../:\Users\cress\IdeaProjects\Components\.idea/ZeppelinRemoteNotebooks/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignore Files
+*.class
+*.iml
+*.xml
